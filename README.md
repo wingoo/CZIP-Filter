@@ -9,3 +9,4 @@ CZIP-Filter
 ips2.txt为txt格式截至2012-05-08的最新合并后的ip库,可直接导入数据库中
 
 纯真ip库下载地址 http://www.cz88.net/down/76250/
+安装之后需要导出为txt格式
